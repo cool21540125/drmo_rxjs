@@ -1,0 +1,14 @@
+{
+  "name": "demo_rxjs",
+  "version": "1.0.0",
+  "description": "- 2020/10/06 - [RxJS-Introduction](https://rxjs-dev.firebaseapp.com/guide/overview) - [打通 RxJS 任督二脈](https://ithelp.ithome.com.tw/articles/10237728)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  }
+}
