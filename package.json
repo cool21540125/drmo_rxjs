@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
   }
 }
