@@ -34,11 +34,12 @@ RxJS 的五個重點:
 2. 參考 *parcel.md*
 
 
-
 ## 名詞
 
 - Stream
 - Operators
+- Observable/Subject/Stream
+- Observer
 
 
 ## 核心步驟
