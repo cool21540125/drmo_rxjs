@@ -121,3 +121,10 @@ src.subscribe((data) => { ... });
 
 關於 `subscribe` 呼叫後續拿到的東西, 稱作 **Subscription**, 參考 *example6.ts*
 
+
+# Functional Programming
+
+- [初探Functional Programming：徹底改變程式思維 - 基礎概念篇](https://www.youtube.com/watch?v=qpOcRG3e9Q8&ab_channel=%E8%B5%B0%E6%AD%AA%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%ABJames)
+- Functor
+    - Applicative
+        - Monad
